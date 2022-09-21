@@ -1,0 +1,15 @@
+.store-buttons-container {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.store-buttons-image {
+  width: 151px;
+  object-fit: cover;
+  margin-right: var(--dl-space-space-unit);
+}
+.store-buttons-image1 {
+  width: 151px;
+  object-fit: cover;
+}
